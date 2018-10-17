@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        HashSet<String> hs = new HashSet<String>();
+        /*HashSet<String> hs = new HashSet<String>();
         hs.add("alice");
         hs.add("trudy");
         hs.add("eve");
@@ -20,5 +20,8 @@ public class Main {
         ts.add("bob");
         ts.add("eve");
         System.out.println("Tree set: " + ts);
+        for (String name : ts)
+            System.out.println(name);*/
+
     }
 }
